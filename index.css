@@ -1,0 +1,12 @@
+body {
+  background-image: url(./img1.jpg);
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+audio {
+  margin: 0 50%;
+}
